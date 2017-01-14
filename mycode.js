@@ -1,5 +1,5 @@
 var s=[
-"gin.htm",
+"https://github.com/opay89/jshost/blob/master/gin.htm",
 "http://freebitco.in/?r=135139",
 "http://dailybitcoins.org/index.php?aff=9fb5ef25df8f3dc11cbf6a7c967d235d",
 "http://hotswap.co/?id=369693",
